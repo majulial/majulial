@@ -6,6 +6,14 @@
   <img width="300" height="300" alt="sadako-onryō" src="https://github.com/user-attachments/assets/8d1c364c-1053-41de-bde6-32766772747e" />
 </div>
 
+<div align="center">
+  <samp>
+      <br>
+      Hello World! I'm <b>Júlia de Lima</b>
+      Olá Mundo! Eu sou <b>Júlia de Lima</b>
+  </samp>
+</div>
+
 ## Hi there 👋
 
 <!--
