@@ -9,7 +9,7 @@
 <div align="center">
   <samp>
       <br>
-      Hello World! I'm <b>Júlia de Lima</b>
+      Hello World! I'm <b>Júlia de Lima</b><br>
       Olá Mundo! Eu sou <b>Júlia de Lima</b>
   </samp>
 </div>
