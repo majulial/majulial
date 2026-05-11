@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=wave&height=200&color=0:990000,50:4B0000,100:140000"/>
 
 <div align="center">
-  <img align="center" height="150" src="https://tenor.com/qpBvpwnGIwx.gif" />
+  <img src="https://tenor.com/qpBvpwnGIwx.gif" height="150" />
 </div>
 
 ## Hi there 👋
