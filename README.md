@@ -12,9 +12,10 @@
       Hello World! I'm <b>Júlia de Lima</b><br>
       Olá Mundo! Eu sou <b>Júlia de Lima</b>
   </samp>
+
+</div>
   <br>
   **`Desenvolvedora FullStack`**
-</div>
 <br>
 
 <div align="center" width="100%">
