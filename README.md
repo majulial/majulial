@@ -13,10 +13,10 @@
       Olá Mundo! Eu sou <b>Júlia de Lima</b>
   </samp>
 </div>
-
+<br>
 <div align="center" width="100%">
   
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=7807F7&width=435&lines=Be+welcome!;Seja+bem-vinde!;I+am+from+Brazil;Eu+sou+do+Brasil;I+am+a+full+stack+developer;Eu+sou+desenvolvedora+full+stack" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=7807F7&center=true&width=435&lines=Be+welcome!;Seja+bem-vinde!;I+am+from+Brazil;Eu+sou+do+Brasil;I+am+a+full+stack+developer;Eu+sou+desenvolvedora+full+stack" alt="Typing SVG" />
 </div>
 
 ## Hi there 👋
