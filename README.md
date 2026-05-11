@@ -1,8 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=wave&height=200&color=0:990000,50:4B0000,100:140000"/>
 
-<div align="center">
-  <img src="https://tenor.com/qpBvpwnGIwx.gif" height="150" />
-</div>
+<img width="498" height="498" alt="sadako-onryō" src="https://github.com/user-attachments/assets/8d1c364c-1053-41de-bde6-32766772747e" />
+
 
 ## Hi there 👋
 
