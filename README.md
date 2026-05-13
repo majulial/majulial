@@ -81,11 +81,12 @@
   [![Linkedin](https://img.shields.io/badge/LinkedIn-007ab9?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/juliadlima/)
   
 </div>
+</div>
 
 <div align="center">
 
 </div>
-</div>
+
 <br>
 
 </details>
