@@ -32,7 +32,7 @@
 </div>
 
 
-## 📊 Estatísticas
+## 📊 Estatísticas/Statistics
 
 
 <div align="center">
@@ -53,6 +53,44 @@
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg">
   
 </div>
+
+<br>
+<br>
+
+<details align="center">  
+  <summary>
+      <samp>
+        <b>More Info</b>
+      </samp>
+  </summary>
+  
+<br>
+
+<br>
+<div>
+
+## 📲 Contatos/Constacts
+  
+<div align="center">
+
+  <br>
+  <br>
+
+  [![Gmail](https://img.shields.io/badge/Gmail-dd4b40?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:maria.julial2514@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-ff3d7c?style=for-the-badge&logo=instagram&logoColor=#363533)](https://www.instagram.com/majulials/?next=%2F)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-007ab9?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/juliadlima/)
+  
+</div>
+
+<div align="center">
+
+</div>
+</div>
+<br>
+
+</details>
+
+##
 
 
 
