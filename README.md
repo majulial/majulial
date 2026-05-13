@@ -33,7 +33,8 @@
 
 <div align="center">
   
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=majulial&theme=swift)  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=majulial&border_radius=5.4&short_numbers=true&fire=A85C1F&dates=FF3418&currStreakLabel=000000D0&ring=EB5454)](https://git.io/streak-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=majulial&theme=swift) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=majulial&theme=graywhite) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=majulial&border_radius=5.4&short_numbers=true&fire=A85C1F&dates=FF3418&currStreakLabel=000000D0&ring=EB5454)](https://git.io/streak-stats)
   
 </div>
 
