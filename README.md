@@ -67,7 +67,6 @@
 <br>
 
 <br>
-<div>
 
 ## 📲 Contatos/Constacts
   
@@ -80,7 +79,7 @@
   [![Instagram](https://img.shields.io/badge/Instagram-ff3d7c?style=for-the-badge&logo=instagram&logoColor=#363533)](https://www.instagram.com/majulials/?next=%2F)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-007ab9?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/juliadlima/)
   
-</div>
+
 </div>
 
 <div align="center">
