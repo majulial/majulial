@@ -67,9 +67,11 @@
 <br>
 
 <br>
+<div align="left">
 
-## 📲 Contatos/Constacts
-  
+## 📲 Contatos/Contacts
+
+</div>  
 <div align="center">
 
   <br>
