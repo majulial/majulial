@@ -33,9 +33,7 @@
 
 <div align="center">
   
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=majulial&theme=moltack)
-
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=majulial&theme=moltack&border_radius=5.4&short_numbers=true&fire=FC5A5A)](https://git.io/streak-stats)
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=majulial&theme=moltack) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=majulial&theme=moltack&border_radius=5.4&short_numbers=true&fire=FC5A5A)](https://git.io/streak-stats)
   
 </div>
 
